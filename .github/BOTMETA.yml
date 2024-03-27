@@ -306,6 +306,8 @@ files:
     labels: gitlab
     maintainers: $team_gitlab
     notify: jlozadad
+  $module_utils/hpc_system_firmware_utils.py:
+    maintainers: srujana
   $module_utils/hwc_utils.py:
     keywords: cloud huawei hwc
     labels: huawei hwc_utils networking
